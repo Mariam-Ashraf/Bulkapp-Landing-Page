@@ -173,7 +173,7 @@ a {
   .testimonials__section .testimonials__container .testimonials__item {
     column-gap: 2rem;
     margin: 2rem;
-    padding: 2.5rem;
+    padding: 2.5rem 7rem;
     width: 27%;
     background-color: white; }
     .testimonials__section .testimonials__container .testimonials__item .testimonials__title > p {
